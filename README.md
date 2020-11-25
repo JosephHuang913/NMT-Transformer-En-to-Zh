@@ -4,7 +4,9 @@ This neural machine translator is based on [**Transformer**](https://arxiv.org/a
 
 #### Usage
 
+```
 python3 interpret_en-zh.py
+```
 
 #### Download and prepare the dataset
 
