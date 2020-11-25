@@ -1,4 +1,4 @@
-### Neural Machine Translation (**English to Chinese**) 
+### Neural Machine Translation (*English to Chinese*) 
 
 This neural machine translator is based on [**Transformer**](https://arxiv.org/abs/1706.03762) with Google STT and TTS
 
